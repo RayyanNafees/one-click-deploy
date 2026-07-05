@@ -27,6 +27,6 @@
   "devDependencies": {
     "concurrently": "8.2.2",
     "ts-node": "10.9.2",
-		"yarn": "lastest"
+    "yarn": "^1.22.22"
   }
 }
